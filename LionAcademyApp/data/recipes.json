@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Ensalada de Quinoa",
+    "description": "Rica en proteínas y antioxidantes.",
+    "image": "ensalada-quinoa.jpg",
+    "ingredients": [
+      "1 taza de quinoa cocida",
+      "1 tomate picado",
+      "1/2 pepino",
+      "Jugo de 1 limón",
+      "Sal y pimienta al gusto"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tazón de Avena y Frutas",
+    "description": "Aporta fibra, energía y regula la digestión.",
+    "image": "avena-frutas.jpg",
+    "ingredients": [
+      "1/2 taza de avena",
+      "1 taza de leche vegetal",
+      "1 banana",
+      "5 fresas picadas",
+      "1 cucharada de semillas de chía"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Smoothie Verde Detox",
+    "description": "Ayuda a desintoxicar y fortalecer el sistema inmune.",
+    "image": "smoothie-verde.jpg",
+    "ingredients": [
+      "1 taza de espinaca",
+      "1 manzana verde",
+      "1 trozo de jengibre",
+      "1/2 taza de agua de coco",
+      "Hielo al gusto"
+    ]
+  },
+   {
+    "id": 4,
+    "title": "Barras Energéticas Caseras",
+    "description": "Ideales para una merienda saludable y saciante.",
+    "image": "barras-energeticas.jpg",
+    "ingredients": [
+      "1 taza de avena",
+      "1/2 taza de mantequilla de maní",
+      "1/3 taza de miel",
+      "1/4 taza de semillas de girasol",
+      "1/4 taza de chispas de chocolate oscuro"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ensalada de Garbanzos",
+    "description": "Refrescante y rica en proteínas vegetales.",
+    "image": "ensalada-garbanzos.jpg",
+    "ingredients": [
+      "1 taza de garbanzos cocidos",
+      "1/2 pimiento rojo picado",
+      "1/4 cebolla morada",
+      "Cilantro al gusto",
+      "Vinagre de manzana y aceite de oliva"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Tostadas Integrales con Aguacate",
+    "description": "Fuente de grasas saludables y fibra.",
+    "image": "tostadas-aguacate.jpg",
+    "ingredients": [
+      "2 rebanadas de pan integral",
+      "1/2 aguacate maduro",
+      "Jugo de 1/2 limón",
+      "Sal marina",
+      "Semillas de sésamo o chía"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Yogur Natural con Frutas",
+    "description": "Una opción rápida, nutritiva y deliciosa.",
+    "image": "yogur-frutas.jpg",
+    "ingredients": [
+      "1 taza de yogur natural sin azúcar",
+      "1/4 taza de granola",
+      "1/2 banana en rodajas",
+      "Arándanos y fresas",
+      "1 cucharadita de miel (opcional)"
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Rutina Cardio Básica",
+    "duration": "15 min",
+    "description": "Una rutina para iniciar el día con energía y quemar calorías.",
+    "type": "Cardio",
+    "level": "Principiante",
+    "steps": [
+      { "name": "Calentamiento", "time": "5 min" },
+      { "name": "Jumping Jacks", "time": "5 min" },
+      { "name": "Correr en el lugar", "time": "5 min" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Fuerza y Resistencia",
+    "duration": "25 min",
+    "description": "Ejercicios para tonificar brazos, piernas y abdomen.",
+    "type": "Fuerza",
+    "level": "Intermedio",
+    "steps": [
+      { "name": "Calentamiento articular", "time": "5 min" },
+      { "name": "Mancuernas laterales", "time": "10 min" },
+      { "name": "Sentadillas con peso", "time": "10 min" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Yoga para Principiantes",
+    "duration": "20 min",
+    "description": "Relaja cuerpo y mente con esta suave sesión de yoga.",
+    "type": "Flexibilidad",
+    "level": "Principiante",
+    "steps": [
+      { "name": "Respiración y estiramiento", "time": "5 min" },
+      { "name": "Estiramiento", "time": "10 min" },
+      { "name": "Plancha", "time": "5 min" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "HIIT Explosivo",
+    "duration": "30 min",
+    "description": "Intervalos de alta intensidad para quemar grasa rápidamente.",
+    "type": "Cardio",
+    "level": "Avanzado",
+    "steps": [
+      { "name": "Burpees", "time": "10 min" },
+      { "name": "Mountain Climbers", "time": "10 min" },
+      { "name": "Sprints estáticos", "time": "10 min" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Abdomen",
+    "duration": "20 min",
+    "description": "Enfócate en tu core con esta rutina centrada en abdominales.",
+    "type": "Fuerza",
+    "level": "Intermedio",
+    "steps": [
+      { "name": "Plancha", "time": "5 min" },
+      { "name": "Crunches", "time": "10 min" },
+      { "name": "Bicicleta en el aire", "time": "5 min" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Estiramientos Nocturnos",
+    "duration": "10 min",
+    "description": "Desconecta del día con estiramientos suaves para dormir mejor.",
+    "type": "Flexibilidad",
+    "level": "Principiante",
+    "steps": [
+      { "name": "Estiramiento de cuello y hombros", "time": "3 min" },
+      { "name": "Rotación de columna", "time": "4 min" },
+      { "name": "Piernas arriba contra la pared", "time": "3 min" }
+    ]
+  }
+]
