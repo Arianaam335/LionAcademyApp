@@ -22,7 +22,7 @@ export default function ExercisePage({ navigation }) {
     );
 
     return (
-        // ondo morado
+        // Fondo morado
         <ImageBackground
             source={require('../assets/gradient-bg.png')}
             style={styles.background}

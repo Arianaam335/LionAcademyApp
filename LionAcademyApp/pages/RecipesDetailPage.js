@@ -14,14 +14,21 @@ export default function RecipesDetailPage({ route, navigation }) {
   };
 
   return (
+    // Fondo morado
     <ImageBackground
       source={require('../assets/gradient-bg.png')}
       style={styles.background}
       resizeMode="cover"
     >
+      {/* Contenedor principal */}
       <View style={styles.container}>
+
+        {/* Tarjeta blanca con imagen y contenido de la receta */}
         <View style={styles.card}>
+
+          {/* Imagen de la receta  */}
           <Image source={imageMap[recipe.image]} style={styles.image} />
+
           <View style={styles.content}>
             <Text style={styles.title}>{recipe.title}</Text>
             <Text style={styles.subtitle}>Beneficio:</Text>
@@ -38,6 +45,7 @@ export default function RecipesDetailPage({ route, navigation }) {
           </View>
         </View>
 
+        {/* Botón para volver */}
         <TouchableOpacity style={styles.backButton} onPress={() => navigation.goBack()}>
           <Text style={styles.backButtonText}> Volver </Text>
         </TouchableOpacity>
