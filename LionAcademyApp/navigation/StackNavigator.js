@@ -4,10 +4,10 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import WelcomePage from '../pages/WelcomePage';
 import LoginPage from '../pages/LoginPage';
 import HomePage from '../pages/HomePage';
-import ExercisePage from '../pages/ExercisePage'
+import ExercisePage from '../pages/ExercisePage';
 import ExerciseDetailPage from '../pages/ExerciseDetailPage';
-import RecipesPage from '../pages/RecipesPage'
-import RecipesDetailPage from '../pages/RecipesDetailPage'
+import RecipesPage from '../pages/RecipesPage';
+import RecipesDetailPage from '../pages/RecipesDetailPage';
 
 const Stack = createNativeStackNavigator();
 

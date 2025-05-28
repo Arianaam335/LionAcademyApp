@@ -19,6 +19,7 @@ export default function RecipesPage({ navigation }) {
     "yogur-frutas.jpg": require('../assets/yogur-frutas.jpg'),
   };
 
+  // Renderiza las card
   const renderItem = ({ item }) => (
     <TouchableOpacity onPress={() => navigation.navigate('RecipesDetail', { recipe: item })}>
       <View style={styles.card}>
@@ -32,6 +33,7 @@ export default function RecipesPage({ navigation }) {
   );
 
   return (
+    // Fondo morado
     <ImageBackground
       source={require('../assets/gradient-bg.png')}
       style={styles.background}
