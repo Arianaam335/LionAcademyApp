@@ -14,7 +14,7 @@ npx create-expo-app LionAcademyApp --template blank
 # 2. Moverte al directorio del proyecto
 cd LionAcademyApp
 
-# 3. Instalar dependencias necesarias para web
+# 3. Instalar las dependencias necesarias para web
 npx expo install react-dom react-native-web @expo/metro-runtime
 
 # 4. Instalar React Navigation y su stack nativo
